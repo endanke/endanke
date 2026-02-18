@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello / Szia / Moi !
 
-<!--
-**endanke/endanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel Eke a Hungarian-Finnish Software Developer and Visual Artist.
 
-Here are some ideas to get you started:
+My primary focus on graphics programming and SDK development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I develop Ferromagnetic, a music visualizer software tailored for VJs.
+
+Read more about it here: http://ferromagneticapp.com
+
+Other links where you can find me:
+
+LinkedIn: https://www.linkedin.com/in/endanke
+
+Instagram: https://www.instagram.com/headprocess
+
+Blog: https://headprocess.com
+
+Paintings: https://www.tumblr.com/headprocess
